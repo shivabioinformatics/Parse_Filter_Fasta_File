@@ -1,1 +1,1 @@
-This is personal code for personal project. The goal in this code here is to go through 1660 proteins and based on certain criteria (specific sequence position) keep the ones that matches the criteria and out them in an output file called "filtered sequences" using Python. 
+This is personal code for a personal project. The goal of this code is to go through 1,660 proteins and, based on certain criteria (specific sequence positions), keep the ones that match the criteria and output them to a file called "filtered sequences" using Python.
